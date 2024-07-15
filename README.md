@@ -1,4 +1,4 @@
 # AccountManagementForm_test
 
-npm install
+npm install  
 npm run dev
